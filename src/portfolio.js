@@ -364,7 +364,7 @@ const degrees = {
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Machine Learning, Data Science, C/C++, Python, Java, Reactjs and Full Stack Development.",
         "⚡ I have created projects in different fields to master the fundamentals of the respective domains and have tried to master the concepts through their basics.",
-        "⚡ I was known for my curiosity during my entire college period and have performed very well in every subject of my academic career .",
+        "⚡ I was known for my curiosity during my entire college period and have performed very well in every subject of my academic career.",
       ],
       website_link: "https://online.gndu.ac.in/",
     },
@@ -375,8 +375,7 @@ const certifications = {
   certifications: [
     {
       title: "Machine Learning A-Z™: Python & R in Data Science [2022]",
-      subtitle:
-        "- Kirill Eremenko, Hadelin de Ponteves, Ligency I Team, Ligency Team",
+      subtitle: "- Kirill Eremenko",
       logo_path: "Udemy_logo.png",
       certificate_link:
         "https://drive.google.com/file/d/1hg_4k2fQLuALqQCqI0rrxQ0uobGFIG1m/view?usp=sharing",
