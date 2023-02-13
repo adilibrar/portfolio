@@ -26,7 +26,7 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1WVhTSeyM5ugJExghDCq5xQC77hdFshYg/view?usp=sharing",
-  portfolio_repository: "https://github.com/adilibrar?tab=repositories",
+  portfolio_repository: "https://adil-profile.netlify.app/#/contact",
 };
 
 const socialMediaLinks = [
